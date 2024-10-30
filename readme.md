@@ -1,5 +1,3 @@
-Here's a `README.md` for the simple cleaning robot code:
-
 ---
 
 # Simple Cleaning Robot
@@ -52,7 +50,7 @@ pip install RPi.GPIO
 3. **Run the script**:
 
    ```bash
-   python3 cleaning_robot.py
+   python3 main.py
    ```
 
 ## Wiring Diagram
